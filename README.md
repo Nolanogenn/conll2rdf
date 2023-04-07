@@ -13,4 +13,4 @@ To run the script, you invoke **main/conllu2rdf.py** with the following argument
 __
 
 ## Contacts
-email: gnolano@unior.it
+email: genn@gnolano.xyz
